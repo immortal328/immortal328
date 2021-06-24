@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amar Pujari.
 - 👀 I’m interested in Full Stack Development.
-- 🌱 I’m currently learning Full Stack (MERN) from Newton School.
+- 🌱 I’m currently learning Full Stack (MERN).
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me .You can reach to by instagram .my insta id is 'immortal_ap_'
 
