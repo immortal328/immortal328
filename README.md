@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amar Pujari.
-- 👀 I’m interested in Full Stack Development.
-- 🌱 I’m currently learning Full Stack (MERN).
+- 👀 Interested in Full Stack Development.
+- 🌱 I’m currently working at Mphasis as A Java Full Stack Developer.
 
 <!---
 immortal328/immortal328 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
