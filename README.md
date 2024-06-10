@@ -5,10 +5,10 @@
 # Languages:
 
 <div>
-  <img src="https://github.com/immortal328/Certificates/blob/main/Images/Language/Java-Logo.png" alt="Girl in a jacket" width="50" height="60">
-  <img src="https://github.com/immortal328/Certificates/blob/main/Images/Language/javascript-logo-8892AEFCAC-seeklogo.com.png" alt="Girl in a jacket" width="50" height="60">
-  <img src="https://github.com/immortal328/Certificates/blob/main/Images/Language/logo-2582748_1280.webpg" alt="Girl in a jacket" width="50" height="60">
-  <img src="https://github.com/immortal328/Certificates/blob/main/Images/Language/Golang.webp" alt="Girl in a jacket" width="50" height="60">
+  <img src="https://github.com/immortal328/Certificates/blob/main/Images/Language/Java-Logo.png" alt="Java" width="100" height="120">
+  <img src="https://github.com/immortal328/Certificates/blob/main/Images/Language/javascript-logo-8892AEFCAC-seeklogo.com.png" alt="JavaScript" width="100" height="120">
+  <img src="https://github.com/immortal328/Certificates/blob/main/Images/Language/logo-2582748_1280.webp" alt="HTML" width="100" height="120">
+  <img src="https://github.com/immortal328/Certificates/blob/main/Images/Language/Golang.webp" alt="GoLang" width="100" height="120">
 </div>
 
 <!---
