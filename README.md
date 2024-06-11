@@ -2,7 +2,7 @@
 A <b>Java Full Stack Developer</b>, I bring over 2.5 years of dedicated experience in backend development utilizing Java alongside frameworks like Spring Boot, Spring MVC, Hibernate/JPA, and Cassandra. Proficient in optimizing application performance, implementing resilient data structures & algorithms, and maintaining superior code quality through Test-Driven Development (TDD). Additionally, I possess expertise in React, JavaScript, and various testing frameworks, complemented by a strong understanding of Agile methodologies.
 
 # SKILLS:
-<hr style="border: 10px solid green, border-radius: 5px">
+<hr>
 
 ## Programming Languages
 <div>
@@ -16,8 +16,8 @@ A <b>Java Full Stack Developer</b>, I bring over 2.5 years of dedicated experien
   <img src="https://miro.medium.com/v2/resize:fit:700/1*o5FmjKTPdJTbhGE2MIjo6w.png" alt="Spring Boot" width="130" height="90" title="Spring Boot">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" alt="Spring" width="100" height="90" title="Spring">
   <img src="https://hibernate.org/images/hibernate-logo.svg" alt="Hibernate" width="100" height="90" title="Hibernate">
-  <img src="https://cdn.codegym.cc/images/article/c176d588-eeed-4a8c-a2d1-66380e681ead/800.jpeg" alt="JUnit" width="130" height="130" title="JUnit">
-  <img src="https://site.mockito.org/img/logo.png" alt="Mockito" width="120" height="100" title="Mockito">
+  <img src="https://cdn.codegym.cc/images/article/c176d588-eeed-4a8c-a2d1-66380e681ead/800.jpeg" alt="JUnit" width="120" height="100" title="JUnit">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOyNr-cQgy6OR0ftCp-fRKhL3oJzwuU9QbTg&s" alt="Mockito" width="120" height="100" title="Mockito">
 </div>
 
 ## Web Development :
