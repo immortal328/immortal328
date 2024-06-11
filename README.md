@@ -2,8 +2,9 @@
   "A seasoned Java Full Stack Developer, I bring over 2.5 years of dedicated experience in backend development utilizing Java alongside frameworks like Spring Boot, Spring MVC, Hibernate/JPA, and Cassandra. Proficient in optimizing application performance, implementing resilient data structures & algorithms, and maintaining superior code quality through Test-Driven Development (TDD). Additionally, I possess expertise in React, JavaScript, and various testing frameworks, complemented by a strong understanding of Agile methodologies."
 </h4>
 
-# Languages:
+# My Skills and Expertise
 
+## Programming Languages:
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="100" height="120">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="100" height="120">
@@ -12,20 +13,11 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="GoLang" width="100" height="120">
 </div>
 
-# My Skills and Expertise
-
-## Programming Languages
-![Java](https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg) 
-![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png) 
-![SQL](https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png) 
-![HTML](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg) 
-![CSS](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg)
-
 ## Frameworks & Libraries
-- **Spring Boot**
-- **Spring**
-- **Hibernate/JPA**
-- **React**
+![Spring Boot](https://spring.io/images/icons/spring-boot.svg) **Spring Boot**
+![Spring](https://spring.io/images/icons/spring.svg) **Spring**
+![Hibernate](https://hibernate.org/images/hibernate-logo.svg) **Hibernate/JPA**
+![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg) **React**
 
 ## Database
 - **Cassandra (NoSQL)**
