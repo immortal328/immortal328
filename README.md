@@ -17,8 +17,8 @@
 ## Frameworks & Libraries
 <div>
   <img src="https://miro.medium.com/v2/resize:fit:700/1*o5FmjKTPdJTbhGE2MIjo6w.png" alt="Spring Boot" width="130" height="90">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" alt="Spring" width="100" height="120">
-  <img src="https://hibernate.org/images/hibernate-logo.svg" alt="Hibernate" width="100" height="120">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" alt="Spring" width="100" height="90">
+  <img src="https://hibernate.org/images/hibernate-logo.svg" alt="Hibernate" width="100" height="90">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="100" height="120">
 </div>
 
