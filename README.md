@@ -20,7 +20,7 @@ A <b>Java Full Stack Developer</b>, I bring over 2.5 years of dedicated experien
   <img src="https://site.mockito.org/img/logo.png" alt="Mockito" width="120" height="100" title="Mockito">
 </div>
 
-# Web Development :
+## Web Development :
   <div>
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="100" height="120" title="HTML">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="100" height="120" title="CSS">
