@@ -14,10 +14,13 @@
 </div>
 
 ## Frameworks & Libraries
-![Spring Boot](https://spring.io/images/icons/spring-boot.svg) **Spring Boot**
-![Spring](https://spring.io/images/icons/spring.svg) **Spring**
-![Hibernate](https://hibernate.org/images/hibernate-logo.svg) **Hibernate/JPA**
-![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg) **React**
+<div>
+  <img src="https://spring.io/images/icons/spring-boot.svg" alt="Java" width="100" height="120">
+  <img src="https://spring.io/images/icons/spring.svg" alt="JavaScript" width="100" height="120">
+  <img src="https://hibernate.org/images/hibernate-logo.svg" alt="SQL" width="120" height="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="HTML" width="100" height="100">
+</div>
+
 
 ## Database
 - **Cassandra (NoSQL)**
