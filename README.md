@@ -10,6 +10,7 @@
   </style>
 </head>
   <body>
+    <hr class="new5">
   </body>
 </html>
 
