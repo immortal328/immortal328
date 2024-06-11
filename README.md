@@ -2,7 +2,11 @@
 A <b>Java Full Stack Developer</b>, I bring over 2.5 years of dedicated experience in backend development utilizing Java alongside frameworks like Spring Boot, Spring MVC, Hibernate/JPA, and Cassandra. Proficient in optimizing application performance, implementing resilient data structures & algorithms, and maintaining superior code quality through Test-Driven Development (TDD). Additionally, I possess expertise in React, JavaScript, and various testing frameworks, complemented by a strong understanding of Agile methodologies.
 
 # SKILLS:
-# =============================================
+hr.new5 {
+  border: 10px solid green;
+  border-radius: 5px;
+}
+<hr class="new5">
 
 ## Programming Languages
 <div>
