@@ -30,13 +30,15 @@
 </div>
 
 ## Development Practices
-- **Microservices**
-- **TDD/BDD**
-- **Swagger**
-- **Agile**
-- **DSA**
-- **RESTful**
-- **JMS**
+  <div>
+    <img src="https://example.com/microservices-image.png" alt="Microservices"  width="100" height="120">
+    <img src="https://example.com/tdd-bdd-image.png" alt="TDD/BDD"  width="100" height="120">
+    <img src="https://example.com/swagger-image.png" alt="Swagger"  width="100" height="120">
+    <img src="https://example.com/agile-image.png" alt="Agile"  width="100" height="120">
+    <img src="https://example.com/dsa-image.png" alt="DSA"  width="100" height="120">
+    <img src="https://example.com/restful-image.png" alt="RESTful"  width="100" height="120">
+    <img src="https://example.com/jms-image.png" alt="JMS"  width="100" height="120">
+  </div>
 
 ## Testing & Tools
 <div>
