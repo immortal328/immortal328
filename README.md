@@ -23,8 +23,11 @@
 
 
 ## Database
-- **Cassandra (NoSQL)**
-- **MySQL**
+<div>
+  ![Cassandra](https://upload.wikimedia.org/wikipedia/commons/5/5e/Cassandra_logo.svg) **Cassandra (NoSQL)**
+  ![MySQL](https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg) **MySQL**  
+</div>
+
 
 ## Development Practices
 - **Microservices**
