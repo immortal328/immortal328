@@ -16,8 +16,8 @@
 
 ## Frameworks & Libraries
 <div>
-  <img src="https://spring.io/images/icons/spring-boot.svg" alt="Spring Boot" width="100" height="120">
-  <img src="https://www.google.com/imgres?q=spring%20and%20spring%20boot%20icon%20link&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F4%2F44%2FSpring_Framework_Logo_2018.svg%2F1200px-Spring_Framework_Logo_2018.svg.png&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ASpring_Framework_Logo_2018.svg&docid=dHCcPFKjzPd3GM&tbnid=U4gBYE3vneGD5M&vet=12ahUKEwjI5IPl1tOGAxXLi2MGHadvDswQM3oECF4QAA..i&w=1200&h=309&hcb=2&ved=2ahUKEwjI5IPl1tOGAxXLi2MGHadvDswQM3oECF4QAA" alt="Spring" width="100" height="120">
+  <img src="https://miro.medium.com/v2/resize:fit:700/1*o5FmjKTPdJTbhGE2MIjo6w.png" alt="Spring Boot" width="100" height="120">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" alt="Spring" width="100" height="120">
   <img src="https://hibernate.org/images/hibernate-logo.svg" alt="Hibernate" width="100" height="120">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="100" height="120">
 </div>
