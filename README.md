@@ -1,6 +1,6 @@
-<h4>
+<h3>
   "A seasoned Java Full Stack Developer, I bring over 2.5 years of dedicated experience in backend development utilizing Java alongside frameworks like Spring Boot, Spring MVC, Hibernate/JPA, and Cassandra. Proficient in optimizing application performance, implementing resilient data structures & algorithms, and maintaining superior code quality through Test-Driven Development (TDD). Additionally, I possess expertise in React, JavaScript, and various testing frameworks, complemented by a strong understanding of Agile methodologies."
-</h4>
+</h3>
 
 # My Skills and Expertise
 
@@ -52,9 +52,9 @@
 
 ## Monitoring & Platform
 <div>
-  <img src="https://pbs.twimg.com/profile_images/1039885334366468096/0oV-LF_4_400x400.jpg" alt="AppDynamics" width="100" height="120">
-  <img src="https://upload.wikimedia.org/wikipedia/en/8/8c/Splunk_logo.svg" alt="Splunk" width="100" height="120">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Grafana_logo.svg" alt="Grafana" width="100" height="120">
+  <img src="https://kinneygroup.com/wp-content/uploads/2018/12/appdynamics.png" alt="AppDynamics" width="130" height="100">
+  <img src="https://e7.pngegg.com/pngimages/899/221/png-clipart-splunk-vertical-logo-tech-companies.png" alt="Splunk" width="150" height="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Grafana_logo.png" alt="Grafana" width="120" height="120">
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Apache_Maven_logo.svg" alt="Maven" width="100" height="120">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Pivotal_Cloud_Foundry.svg" alt="PCF" width="100" height="120">
+  <img src="https://miro.medium.com/v2/resize:fit:620/1*0SWhCwP94gUPju-NXfCD7w.png" alt="PCF" width="140" height="100">
   </div>
