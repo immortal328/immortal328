@@ -33,9 +33,9 @@
   <div>
     <img src="https://tecadmin.net/wp-content/uploads/2023/09/microservices-300x198@2x.png" alt="Microservices"  width="120" height="120">
     <img src="https://marsner.com/wp-content/uploads/test-driven-development-TDD.png" alt="TDD/BDD"  width="120" height="120">
-    <img src="" alt="Swagger"  width="100" height="120">
-    <img src="" alt="Agile"  width="100" height="120">
-    <img src="" alt="DSA"  width="100" height="120">
+    <img src="https://denisjakus.com/wp-content/uploads/2019/07/BlogPostSwagger.jpg" alt="Swagger"  width="130" height="100">
+    <img src="https://www.shutterstock.com/image-vector/agile-icon-methodology-vector-development-260nw-1850837746.jpg" alt="Agile"  width="120" height="120">
+    <img src="https://miro.medium.com/v2/resize:fit:1400/0*7AHKqhGVaDWZJ1L_.png" alt="DSA"  width="120" height="120">
     <img src="https://example.com/restful-image.png" alt="RESTful"  width="100" height="120">
     <img src="https://example.com/jms-image.png" alt="JMS"  width="100" height="120">
   </div>
@@ -52,7 +52,7 @@
 
 ## Monitoring & Platform
 <div>
-  <img src="https://kinneygroup.com/wp-content/uploads/2018/12/appdynamics.png" alt="AppDynamics" width="130" height="100">
+  <img src="https://martellotech.com/wp-content/uploads/2022/04/appdynamics-1-1024x536.png" alt="AppDynamics" width="130" height="100">
   <img src="https://e7.pngegg.com/pngimages/899/221/png-clipart-splunk-vertical-logo-tech-companies.png" alt="Splunk" width="150" height="100">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Grafana_logo.png" alt="Grafana" width="120" height="120">
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Apache_Maven_logo.svg" alt="Maven" width="100" height="120">
