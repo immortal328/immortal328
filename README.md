@@ -42,9 +42,9 @@
 
 ## Testing & Tools
 <div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/JUnit_5_Banner.png" alt="JUnit" width="100" height="120">
-  <img src="https://site.mockito.org/img/logo.png" alt="Mockito" width="100" height="120">
-  <img src="https://cucumber.io/images/cucumber-logo.svg" alt="Cucumber" width="100" height="120">
+  <img src="https://cdn.codegym.cc/images/article/c176d588-eeed-4a8c-a2d1-66380e681ead/800.jpeg" alt="JUnit" width="130" height="130">
+  <img src="https://site.mockito.org/img/logo.png" alt="Mockito" width="120" height="100">
+  <img src="https://static.javatpoint.com/tutorial/cucumber/images/cucumber-testing-tutorial.png" alt="Cucumber" width="120" height="120">
   <img src="https://osbsoftware.com.br/upload/produto/ReadyAPI-produto.png" alt="ReadyAPI" width="120" height="120">
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="100" height="120">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Eclipse-Luna-Logo.svg" alt="Eclipse" width="100" height="120">
