@@ -12,6 +12,50 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="GoLang" width="100" height="120">
 </div>
 
+# My Skills and Expertise
+
+## Programming Languages
+![Java](https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg) 
+![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png) 
+![SQL](https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png) 
+![HTML](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg) 
+![CSS](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg)
+
+## Frameworks & Libraries
+- **Spring Boot**
+- **Spring**
+- **Hibernate/JPA**
+- **React**
+
+## Database
+- **Cassandra (NoSQL)**
+- **MySQL**
+
+## Development Practices
+- **Microservices**
+- **TDD/BDD**
+- **Swagger**
+- **Agile**
+- **DSA**
+- **RESTful**
+- **JMS**
+
+## Testing & Tools
+- **JUnit**
+- **Mockito**
+- **Cucumber**
+- **ReadyAPI**
+- **Postman**
+- **Eclipse**
+
+## Monitoring & Platform
+- **AppDynamics**
+- **Splunk**
+- **Grafana**
+- **Maven**
+- **PCF (Pivotal Cloud Foundry)**
+
+
 <!---
 immortal328/immortal328 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
