@@ -1,5 +1,5 @@
 <h3>
-  "A seasoned Java Full Stack Developer, I bring over 2.5 years of dedicated experience in backend development utilizing Java alongside frameworks like Spring Boot, Spring MVC, Hibernate/JPA, and Cassandra. Proficient in optimizing application performance, implementing resilient data structures & algorithms, and maintaining superior code quality through Test-Driven Development (TDD). Additionally, I possess expertise in React, JavaScript, and various testing frameworks, complemented by a strong understanding of Agile methodologies."
+A <b>Java Full Stack Developer</b>b , I bring over 2.5 years of dedicated experience in backend development utilizing Java alongside frameworks like Spring Boot, Spring MVC, Hibernate/JPA, and Cassandra. Proficient in optimizing application performance, implementing resilient data structures & algorithms, and maintaining superior code quality through Test-Driven Development (TDD). Additionally, I possess expertise in React, JavaScript, and various testing frameworks, complemented by a strong understanding of Agile methodologies.
 </h3>
 
 # My Skills and Expertise
@@ -31,6 +31,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" alt="Spring" width="100" height="90">
   <img src="https://hibernate.org/images/hibernate-logo.svg" alt="Hibernate" width="100" height="90">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="100" height="120">
+  <img src="https://cdn.codegym.cc/images/article/c176d588-eeed-4a8c-a2d1-66380e681ead/800.jpeg" alt="JUnit" width="130" height="130">
+  <img src="https://site.mockito.org/img/logo.png" alt="Mockito" width="120" height="100">
 </div>
 
 
@@ -42,8 +44,6 @@
 
 ## Testing & Tools
 <div>
-  <img src="https://cdn.codegym.cc/images/article/c176d588-eeed-4a8c-a2d1-66380e681ead/800.jpeg" alt="JUnit" width="130" height="130">
-  <img src="https://site.mockito.org/img/logo.png" alt="Mockito" width="120" height="100">
   <img src="https://static.javatpoint.com/tutorial/cucumber/images/cucumber-testing-tutorial.png" alt="Cucumber" width="120" height="120">
   <img src="https://osbsoftware.com.br/upload/produto/ReadyAPI-produto.png" alt="ReadyAPI" width="120" height="120">
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="100" height="120">
