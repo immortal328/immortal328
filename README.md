@@ -36,8 +36,8 @@
     <img src="https://denisjakus.com/wp-content/uploads/2019/07/BlogPostSwagger.jpg" alt="Swagger"  width="130" height="100">
     <img src="https://www.shutterstock.com/image-vector/agile-icon-methodology-vector-development-260nw-1850837746.jpg" alt="Agile"  width="120" height="120">
     <img src="https://miro.medium.com/v2/resize:fit:1400/0*7AHKqhGVaDWZJ1L_.png" alt="DSA"  width="120" height="120">
-    <img src="https://example.com/restful-image.png" alt="RESTful"  width="100" height="120">
-    <img src="https://example.com/jms-image.png" alt="JMS"  width="100" height="120">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSELUlWlFnpRRnNEQ1PtGZnGcpZh2gDZF1CUg&s" alt="RESTful"  width="130" height="100">
+    <img src="https://i.morioh.com/210204/c4f71c8f.webp" alt="JMS"  width="130" height="100">
   </div>
 
 ## Testing & Tools
